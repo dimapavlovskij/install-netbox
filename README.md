@@ -48,3 +48,7 @@ v4.3.0, v4.2.0, v4.1.2
 Сеть: Доступ к интернету для загрузки пакетов и клонирования NetBox
 
 Ресурсы: Минимум 2 ГБ RAM, 10 ГБ свободного места
+
+touch install_netbox.sh
+chmod +x install_netbox.sh
+sudo ./install_netbox.sh
